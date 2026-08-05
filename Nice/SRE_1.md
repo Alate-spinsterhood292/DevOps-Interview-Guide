@@ -1,8 +1,10 @@
 # Nice
 
-Comapny - Nice
-Position - Cloud Site Reliability Engineer
-EXP--3yr
+- Comapny - Nice
+- Position - Cloud Site Reliability Engineer
+
+**EXP--3yr**
+
 1) Explain your project .
 2) What is terraform how you configured your project ?
 3) What is modules in Terraform ?
