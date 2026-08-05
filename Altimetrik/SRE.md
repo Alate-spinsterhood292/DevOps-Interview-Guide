@@ -1,3 +1,5 @@
+# Altimetrik
+
 Question : How do you import a resource into Terraform that was created manually in AWS or GCP? What command would you use?
 
 Question : Can you describe your exposure to different environments like Dev, QA, and Prod?
@@ -42,7 +44,3 @@ Question : You have optimized Kubernetes deployment configs. So can you explain 
 
 Question : You mentioned about like the are you have architected a blameless postmortem framework, right? So for continuous learning, so how I mean what have you done to improve occurrence of critical incidents that you have mentioned in your resume.
 You also mentioned about basically to reduce the MTTR so can you explain me what automation that you have done?
-
-
-
-
