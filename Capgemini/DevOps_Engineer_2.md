@@ -1,6 +1,9 @@
 # Capgemini
 
-Exp-9yrs Relevant(5yrs in devops)
+**Exp-9yrs Relevant(5yrs in devops)**
+
+**Ansible**
+
 1. What is an Ansible playbook?
 2. How to install Ansible on Ubuntu and RedHat, and start services?
 3. How to create 3 users and map them to prod, task, and QA groups in a single task?
@@ -19,7 +22,9 @@ Exp-9yrs Relevant(5yrs in devops)
 16. How to do that from an Ansible file?
 17. How to increase debug log level?
 18. Difference between static and dynamic inventory
-### 🧠 *Kubernetes*
+
+**Kubernetes**
+
 1. What is the architecture of Kubernetes?
 2. kubectl apply command – how the services are used?
 3. Deployment YAML file
@@ -34,7 +39,9 @@ Exp-9yrs Relevant(5yrs in devops)
 12. Blue-Green deployment
 13. Canary deployment
 14. What is CSI?
----
+
+**AWS**
+
 1. AWS Lambda function and Step Function
 2. What are autoscaling policies and their uses?
 3. What is a target probe in autoscaling?

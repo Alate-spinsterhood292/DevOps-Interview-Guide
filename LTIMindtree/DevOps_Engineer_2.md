@@ -1,6 +1,6 @@
 # LTIMindtree
 
-Exp---5yrs 
+**Exp---5yrs**
 
 1) Day to day activities in current role
 2) Git rebase
@@ -8,10 +8,10 @@ Exp---5yrs
 4) Aws code commit flow
 5) Deployment types
 6) Lambda functions
-7) How u secure Lambda 
+7) How u secure Lambda
 8) K8s architecture
 9) git cherry-pick command
-10) appspec.yml usage 
+10) appspec.yml usage
 11) Docker file
 12) how u do environmental variable in aws
 13) Ansible

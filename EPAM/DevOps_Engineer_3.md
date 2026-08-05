@@ -1,6 +1,6 @@
 # EPAM
 
-Exp--6 year
+**Exp--6 year**
 
 1. How would you design a scalable, highly available CI/CD system for microservices across multiple teams?
 2. How would you manage cross-region deployments using Terraform in a multi-cloud setup?

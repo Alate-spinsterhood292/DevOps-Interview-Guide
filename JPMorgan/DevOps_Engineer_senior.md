@@ -1,6 +1,7 @@
 # JPMorgan
 
-Exp---> Senior DevOps Engineer
+**Exp---> Senior DevOps Engineer**
+
 1. You’ve deployed an app to Azure Kubernetes Service (AKS) and it fails health checks randomly. How do you debug this end-to-end?
 
 2. In a canary deployment to production, half the traffic returns 502, while others succeed. Walk us through your troubleshooting approach.
